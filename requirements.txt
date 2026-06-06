@@ -1,1 +1,4 @@
-c3RyZWFtbGl0CnBhbmRhcwpudW1weQpzY2lraXQtbGVhcm4Kam9ibGliCg==
+streamlit==1.40.2
+pandas==2.2.3
+numpy==1.26.4
+scikit-learn==1.5.2
